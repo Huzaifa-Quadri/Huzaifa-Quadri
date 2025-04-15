@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **Flutter App Development**
+- 🌱 I’m currently learning **Flutter App Development & Java Full Stack**
 
 - 🤝 I’m looking for help with **in App Animations**
 
-- 👨‍💻 All of my projects are available at [...](...)
+- 👨‍💻 All of my projects are available at [Here!](https://github.com/Huzaifa-Quadri?tab=repositories)
 
-- 💬 Ask me about **...**
+- 💬 Ask me about [*Anything - @HuzaifaQuadri*](mailto:huzaifaquadri1853@@gmail.com)
 
-- 📄 Know about my experiences [...](...)
+- 📄 Know about my experiences [Resume.pdf](https://drive.google.com/file/d/1Pbj1fQQPp9HPyi4gAsKo4KTtaaTbwku7/view?usp=sharing)
 
 - ⚡ Fun fact **I am Lazy Perfectionaist 😅**
 
